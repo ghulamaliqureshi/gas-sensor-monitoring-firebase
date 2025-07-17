@@ -2,12 +2,12 @@
 #include <Firebase_ESP_Client.h>
 
 // Wi-Fi credentials
-#define WIFI_SSID "Ali"
-#define WIFI_PASSWORD "Ali12345678"
+#define WIFI_SSID "Place your"
+#define WIFI_PASSWORD "place your"
 
 // Firebase project credentials
-#define API_KEY "AIzaSyD8T2Hg4GXhR3jvvUMfrnRlCtCwvJaX0sM"
-#define DATABASE_URL "https://gasmonitor-65360-default-rtdb.firebaseio.com/"
+#define API_KEY "Place your"
+#define DATABASE_URL "Place your"
 
 // MQ2 and Buzzer Pins
 #define MQ2_PIN 34
